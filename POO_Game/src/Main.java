@@ -41,6 +41,8 @@ public class Main {
         auto1.avanzar();
         //auto1.frenarHastaDetener();
 */
+        
+        //editado por CARLOS AARON NOLE ATOCHE 
 
 
 
